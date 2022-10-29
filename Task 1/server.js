@@ -21,7 +21,6 @@ const getDetails = (req, res) => {
       bio: "I am a very friendly and cheerful person",
     })
   );
-  console.log("running");
 
 };
 
